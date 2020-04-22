@@ -1,0 +1,6 @@
+---
+- name: This is my first role based playbook
+  hosts: localhost
+  become: yes
+
+  roles:
