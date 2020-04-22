@@ -3,4 +3,4 @@
   hosts: docs
 
   roles:
-  - nginx
+  - apache
