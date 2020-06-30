@@ -1,3 +1,6 @@
 ---
 # from GitHub
 - src: https://github.com/AkshayAdsul/apache
+  version: master
+- src: https://github.com/AkshayAdsul/php
+- src: https://github.com/AkshayAdsul/mysql
