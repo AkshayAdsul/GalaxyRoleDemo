@@ -1,6 +1,6 @@
 ---
 - name: This is my first role based playbook
-  hosts: docs
+  hosts: all
 
   roles:
   - apache
